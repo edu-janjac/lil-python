@@ -1,0 +1,2 @@
+# lil-python
+projekt lil
